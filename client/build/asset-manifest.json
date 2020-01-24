@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74ffd4da.chunk.css",
+    "main.js": "/static/js/main.0d8b9342.chunk.js",
+    "main.js.map": "/static/js/main.0d8b9342.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d907ed8b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d907ed8b.js.map",
+    "static/js/2.caeac322.chunk.js": "/static/js/2.caeac322.chunk.js",
+    "static/js/2.caeac322.chunk.js.map": "/static/js/2.caeac322.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bdae2e38437fd6e9c2c0638216faea5c.js": "/precache-manifest.bdae2e38437fd6e9c2c0638216faea5c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.74ffd4da.chunk.css.map": "/static/css/main.74ffd4da.chunk.css.map",
+    "static/js/2.caeac322.chunk.js.LICENSE": "/static/js/2.caeac322.chunk.js.LICENSE",
+    "static/media/background.jpg": "/static/media/background.c6355f8e.jpg",
+    "static/media/cisco.png": "/static/media/cisco.f4c80a68.png",
+    "static/media/mongo.svg": "/static/media/mongo.cfee114b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d907ed8b.js",
+    "static/js/2.caeac322.chunk.js",
+    "static/css/main.74ffd4da.chunk.css",
+    "static/js/main.0d8b9342.chunk.js"
+  ]
+}

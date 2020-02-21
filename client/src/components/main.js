@@ -38,18 +38,15 @@ const styles = {
         marginTop: "-10px"
     },
     button:{
-        marginLeft: "-8px"
-     
-    }, 
-    button2:{
-        marginLeft: "5px"
+        margin: "0.25em",
+        display: "inline-block"
     },
-    h1:{
-        
+    colorWhite:{
+        color: "white"
+    },
+    navBarAdjust:{
+        marginLeft: "-2em"
     }
-    
-
-
 };
 
 function MainPage() {
@@ -62,23 +59,20 @@ function MainPage() {
             <Router>
                 <Link to="/" style={styles.heading}><h1 style={styles.h1}className="display-4 fadeUp">Abraham Kim</h1></Link>
                 <p style={styles.tagline} className="lead fadeUp">A Full Stack Web Developer!</p>
-                    <nav className="navbar navbar-expand-lg navbar-outline">
-                        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                            <span className="navbar-toggler-icon"></span>
-                        </button>
-                        <div className="collapse navbar-collapse" id="navbarNav">
-                            <ul className="navbar-nav">
+                    <nav className="navbar" style={styles.navBarAdjust}>
+                            <ul className="navbar">
+                                <li className="nav-item d-inline" style={styles.button}>
+                                    <Link to="/about"><button type="button" className="btn btn-outline-light btn-sm fadeUp">About Me</button></Link>
+                                </li>
+                          
                                 <li className="nav-item" style={styles.button}>
-                                    <Link to="/about"><button style={styles.button} type="button" className="btn btn-outline-light fadeUpButton">About Me</button></Link>
+                                    <Link to="/portfolio"><button type="button" className="btn btn-outline-light btn-sm fadeUp">Portfolio</button></Link>
                                 </li>
-                                <li className="nav-item" style={styles.button2}>
-                                    <Link to="/portfolio"><button style={styles.button2} type="button" className="btn btn-outline-light fadeUpButton">Portfolio</button></Link>
-                                </li>
-                                <li className="nav-item" style={styles.button2}>
-                                    <Link to="/contact"><button style={styles.button2} type="button" className="btn btn-outline-light fadeUpButton">Contact</button></Link>
+                           
+                                <li className="nav-item" style={styles.button}>
+                                    <Link to="/contact"><button type="button" className="btn btn-outline-light btn-sm fadeUp">Contact</button></Link>
                                 </li>
                             </ul>
-                        </div>
                     </nav>
                 <Switch>
                 <Route exact path="/" component={this}/>

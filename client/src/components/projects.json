@@ -94,6 +94,15 @@
       "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
       "projectURL": "https://pacific-citadel-06140.herokuapp.com/",
       "githuborheroku": "heroku"
+    },
+    {
+      "src": "/images/Clicky_Game.PNG",
+      "title": "Clicky Game",
+      "description": "A game to test your memory. A project which uses React.",
+      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+      "projectURL": "https://kima111.github.io/clickygame/",
+      "githuborheroku": "heroku"
     }
+
   ]
   

@@ -102,6 +102,14 @@
       "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
       "projectURL": "https://kima111.github.io/clickygame/",
       "githuborheroku": "heroku"
+    },
+    {
+      "src": "/images/eQuipt.PNG",
+      "title": "eQuipt",
+      "description": "A great way for LARPs (Live Action Role Players) to keep stock of their inventory and even give some to other players. A project which uses the full MERN stack (Mongo, Express, React, Node).",
+      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+      "projectURL": "https://larp-equipt.herokuapp.com",
+      "githuborheroku": "heroku"
     }
 
   ]

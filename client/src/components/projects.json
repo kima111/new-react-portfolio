@@ -86,6 +86,14 @@
       "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
       "projectURL": "https://young-cliffs-20678.herokuapp.com/",
       "githuborheroku": "heroku"
+    },
+    {
+      "src": "/images/CNN_Scraper.PNG",
+      "title": "News Scraper",
+      "description": "Scrape news articles then add notes to them. Project which uses Node.js, Handlebars, Mongo, and Javascript.",
+      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+      "projectURL": "https://pacific-citadel-06140.herokuapp.com/",
+      "githuborheroku": "heroku"
     }
   ]
   

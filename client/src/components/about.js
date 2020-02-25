@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import "./index.scss";
 import mongoPic from "../images/mongo.svg";
 import ciscoPic from "../images/cisco.png";
+import microsoftPic from "../images/Microsoft.png";
 
 
 
@@ -72,7 +73,7 @@ export default class About extends Component {
                     <hr />
                     <i style={styles.reactColor} class="fab fa-react"></i>&nbsp;&nbsp;&nbsp;<i style={styles.jsColor}class="fab fa-js"></i>&nbsp;&nbsp;&nbsp;<i style={styles.html5Color} class="fab fa-html5"></i>&nbsp;&nbsp;&nbsp;<i style={styles.cssColor}class="fab fa-css3-alt"></i>&nbsp;&nbsp;&nbsp;<i style={styles.nodeColor} class="fab fa-node"></i>&nbsp;&nbsp;&nbsp;
                     <br /><i class="fab fa-github"></i>&nbsp;&nbsp;&nbsp;<i style={styles.adobeColor} class="fab fa-adobe"></i>&nbsp;&nbsp;&nbsp;<img alt="mongo icon" style={styles.iconSize} src={mongoPic}/>&nbsp;&nbsp;&nbsp;<img alt="mongo icon" style={styles.ciscoIconSize} src={ciscoPic}/>
-                    <br /><br /><br />
+                    <br /><img alt="microsoft icon" style={styles.iconSize} src={microsoftPic} />&nbsp;&nbsp;&nbsp;<i class="fab fa-apple"></i>&nbsp;&nbsp;&nbsp;<br /><br />
                     <p>Links to my</p>
                  
                     <a href="https://github.com/kima111">GITHUB</a>

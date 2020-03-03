@@ -110,6 +110,15 @@
       "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
       "projectURL": "https://larp-equipt.herokuapp.com",
       "githuborheroku": "heroku"
+    },
+    ,
+    {
+      "src": "/images/Chat.PNG",
+      "title": "Chatting App",
+      "description": "An excersize creating a Chat App. An app which demonstrates the usage of Socket.io, Node, and React.",
+      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+      "projectURL": "https://kima111-react-socket-chat-app.herokuapp.com/",
+      "githuborheroku": "heroku"
     }
 
   ]

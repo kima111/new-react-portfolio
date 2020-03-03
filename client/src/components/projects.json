@@ -111,7 +111,6 @@
       "projectURL": "https://larp-equipt.herokuapp.com",
       "githuborheroku": "heroku"
     },
-    ,
     {
       "src": "/images/Chat.PNG",
       "title": "Chatting App",

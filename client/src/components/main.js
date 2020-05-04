@@ -16,6 +16,7 @@ import ThankYou from "./thankyou"
 import NoMatch from "./nomatch";
 
 
+
 const styles = {
     background: {
         backgroundImage: `url(${background})`,
@@ -56,6 +57,7 @@ function MainPage() {
         
           
             <div className="container">
+       
             <Router>
                 <Link to="/" style={styles.heading}><h1 style={styles.h1}className="display-4 fadeUp">Abraham Kim</h1></Link>
                 <p style={styles.tagline} className="lead fadeUp">A Full Stack Web Developer!</p>
@@ -69,17 +71,17 @@ function MainPage() {
                                     <Link to="/portfolio"><button type="button" className="btn btn-outline-light btn-sm fadeUp">Portfolio</button></Link>
                                 </li>
                            
-                                <li className="nav-item" style={styles.button}>
+                                {/* <li className="nav-item" style={styles.button}>
                                     <Link to="/contact"><button type="button" className="btn btn-outline-light btn-sm fadeUp">Contact</button></Link>
-                                </li>
+                                </li> */}
                             </ul>
                     </nav>
                 <Switch>
                 <Route exact path="/" component={this}/>
                 <Route exact path="/about" component={About}/>
                 <Route exact path="/portfolio" component={Portfolio}/>
-                <Route exact path="/contact" component={Contact}/>
-                <Route exact path="/thankyou" component={ThankYou}/>
+                {/* <Route exact path="/contact" component={Contact}/>
+                <Route exact path="/thankyou" component={ThankYou}/> */}
                 <Route component={NoMatch} />
                 </Switch>
             </Router>

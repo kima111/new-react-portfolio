@@ -3,9 +3,7 @@ import "./index.scss";
 import mongoPic from "../images/mongo.svg";
 import ciscoPic from "../images/cisco.png";
 import microsoftPic from "../images/Microsoft.png";
-
-
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const styles = {
     center: {
@@ -74,11 +72,14 @@ export default class About extends Component {
                     <i style={styles.reactColor} class="fab fa-react"></i>&nbsp;&nbsp;&nbsp;<i style={styles.jsColor}class="fab fa-js"></i>&nbsp;&nbsp;&nbsp;<i style={styles.html5Color} class="fab fa-html5"></i>&nbsp;&nbsp;&nbsp;<i style={styles.cssColor}class="fab fa-css3-alt"></i>&nbsp;&nbsp;&nbsp;<i style={styles.nodeColor} class="fab fa-node"></i>&nbsp;&nbsp;&nbsp;
                     <br /><i class="fab fa-github"></i>&nbsp;&nbsp;&nbsp;<i style={styles.adobeColor} class="fab fa-adobe"></i>&nbsp;&nbsp;&nbsp;<img alt="mongo icon" style={styles.iconSize} src={mongoPic}/>&nbsp;&nbsp;&nbsp;<img alt="mongo icon" style={styles.ciscoIconSize} src={ciscoPic}/>
                     <br /><img alt="microsoft icon" style={styles.iconSize} src={microsoftPic} />&nbsp;&nbsp;&nbsp;<i class="fab fa-apple"></i>&nbsp;&nbsp;&nbsp;<br /><br />
-                    <p>Links to my</p>
-                 
+                    <p>Contact Me @</p>
+                    <hr style={{backgroundColor: "#ffffff"}}/>
+                    <i class="fab fa-github"></i>&nbsp;&nbsp;
                     <a href="https://github.com/kima111">GITHUB</a>
                     <br />
-                    <a href="https://www.linkedin.com/in/abraham-kim-481a0961/">LINKEDIN</a>
+                    <i class="fab fa-linkedin"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abraham-kim-481a0961/">LINKEDIN</a>
+                    <br />
+                    <i class="fas fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:kima111@gmail.com">EMAIL</a>
                     </div>
                     
                     <div className="col-lg-10 col-md-9 col-sm-12 col-xs-12">

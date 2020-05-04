@@ -57,7 +57,7 @@ function MainPage() {
         
           
             <div className="container">
-       
+        
             <Router>
                 <Link to="/" style={styles.heading}><h1 style={styles.h1}className="display-4 fadeUp">Abraham Kim</h1></Link>
                 <p style={styles.tagline} className="lead fadeUp">A Full Stack Web Developer!</p>
@@ -77,14 +77,17 @@ function MainPage() {
                             </ul>
                     </nav>
                 <Switch>
-                <Route exact path="/" component={this}/>
+                {/* <Route exact path="/" component={this}/> */}
+                <Redirect exact from="/" to="/about" />
                 <Route exact path="/about" component={About}/>
                 <Route exact path="/portfolio" component={Portfolio}/>
+       
                 {/* <Route exact path="/contact" component={Contact}/>
                 <Route exact path="/thankyou" component={ThankYou}/> */}
                 <Route component={NoMatch} />
                 </Switch>
             </Router>
+            
             </div>
         </div>
     )

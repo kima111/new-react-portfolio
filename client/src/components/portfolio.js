@@ -3,7 +3,6 @@ import "./index.scss";
 import Projectcard from './projectCard';
 import projects from "./projects.json";
 
-
 const styles = {
     center: {
 
@@ -31,7 +30,7 @@ const Portofolio = () =>{
         return (
 
             <div>
-             
+        
                 <div className="container fadeUp" style={styles.center}>
                 <div className="row">
                 {projects.map(projects => (

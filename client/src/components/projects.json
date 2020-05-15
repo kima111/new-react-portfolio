@@ -1,133 +1,131 @@
 [
-    {
-      "src": "/images/WordGuessingGamePic.PNG",
-      "title": "Word Guessing Game",
-      "description": "See if you can guess the words. App demonstrating the use of pure javascript.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://kima111.github.io/Word-Guess-Game/",
-      "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/Word-Guess-Game/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/Word-Guess-Game' target='_blank'>Github</a>"
-    },
-    {
-     "src": "/images/StreetFighterRPG_Game.PNG",
-     "title": "RPG Game",
-     "description": "See if you can outlast your opponent who ever that may be. Usage of jquery.",
-     "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-     "projectURL": "https://kima111.github.io/unit-4-game/",
-     "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/unit-4-game/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/unit-4-game/' target='_blank'>Github</a>"
-    },
-    {
-      "src": "/images/Trivia_Game.PNG",
-      "title": "Trivia Game",
-      "description": "Take a quiz and see how much of a minimalist you are. Demonstrating the use of momentum and jquery.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://kima111.github.io/TriviaGame/",
-      "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/TriviaGame/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/TriviaGame/' target='_blank'>Github</a>"
-    },
-    {
-      "src": "/images/Giftastic_Generator.PNG",
-      "title": "Gif Generator",
-      "description": "An app that pulls in gifs, what ever that gif may be. Showing the usage of an API call and rendering using jquery and javascript.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://kima111.github.io/gifTastic/",
-      "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/gifTastic//' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/gifTastic/' target='_blank'>Github</a>"
-    },
-    {
-      "src": "/images/RPS_Multiplayer_Game.PNG",
-      "title": "Rock Paper Scissors Multiplayer Game",
-      "description": "Challenge a friend to Rock Paper Scissors online. An app connected to Firebase online.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://kima111.github.io/RPS-Multiplayer/",
-      "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/RPS-Multiplayer/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/RPS-Multiplayer/' target='_blank'>Github</a>"
-    },
-    {
-      "src": "/images/Whats_Cooking_App.PNG",
-      "title": "What's Cooking App",
-      "description": "A recipe app that allows you to group, edit, and save to a deck app. Demonstrating a group project collaboration within Github.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "http://www.jessicasills.com/Project-1/",
-      "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='http://www.jessicasills.com/Project-1/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/jsills3110/Project-1' target='_blank'>Github</a>"
-    },
-    {
-      "src": "/images/Liri.PNG",
-      "title": "Liri Bot",
-      "description": "A bot that will console out different information that is tied to APIs. Connected using API calls within the Node.js server.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://github.com/kima111/liri-node-app",
-      "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/liri-node-app' target='_blank'>Github</a>"
-    },
-    {
-      "src": "/images/bamazon.PNG",
-      "title": "Bamazon App",
-      "description": "This is a Command Line Interface app which will work a lot like a purchasing terminal deomonstrating the use of node.js which is connected to MySQL database",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://github.com/kima111/bamazon",
-      "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/bamazon' target='_blank'>Github</a>"
-    },
-    {
-      "src": "/images/Friend_Finder.PNG",
-      "title": "Friend Finder",
-      "description": "Looking for friends. Look no further. Here is app that will take in a survey. Demonstrating MySQL and javascript.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://dry-reaches-71306.herokuapp.com/",
-      "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/FriendFinder' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://dry-reaches-71306.herokuapp.com/' target='_blank'>Heroku</a>"
-    },
-    {
-      "src": "/images/Burgers_App.PNG",
-      "title": "Burgers",
-      "description": "Here is a menu style app that will help you track your burgers! Showing usage of Express, Node.js, and javascript working together.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://afternoon-sierra-83583.herokuapp.com/",
-      "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/burger' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://afternoon-sierra-83583.herokuapp.com/' target='_blank'>Heroku</a>"
-    },
-    {
-      "src": "/images/Prodigies.PNG",
-      "title": "Prodigies",
-      "description": "A spot where you can find kid friendly games and ratings. Another group project combining Express, Node.js, Handlebars, and Javascript within a group project.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://young-cliffs-20678.herokuapp.com/",
-      "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/Munchinator6354/prodigies' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://young-cliffs-20678.herokuapp.com/' target='_blank'>Heroku</a>"
-    },
-    {
-      "src": "/images/CNN_Scraper.PNG",
-      "title": "News Scraper",
-      "description": "Scrape news articles then add notes to them. Project which uses Node.js, Handlebars, Mongo, and Javascript.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://pacific-citadel-06140.herokuapp.com/",
-      "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/NewsNotes' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://pacific-citadel-06140.herokuapp.com/' target='_blank'>Heroku</a>"
-    },
-    {
-      "src": "/images/Clicky_Game.PNG",
-      "title": "Clicky Game",
-      "description": "A game to test your memory. A project which uses React.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://kima111.github.io/clickygame/",
-      "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/clickygame/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/clickygame' target='_blank'>Github</a>"
-    },
-    {
-      "src": "/images/eQuipt.PNG",
-      "title": "eQuipt",
-      "description": "A great way for LARPs (Live Action Role Players) to keep stock of their inventory and even give some to other players. A project which uses the full MERN stack (Mongo, Express, React, Node).",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://larp-equipt.herokuapp.com",
-      "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/Munchinator6354/eQuipt' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://larp-equipt.herokuapp.com' target='_blank'>Heroku</a>"
-    },
-    {
-      "src": "/images/Chat.PNG",
-      "title": "Chatting App",
-      "description": "An excersize creating a Chat App. An app which demonstrates the usage of Socket.io, Node, and React.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://kima111-react-socket-chat-app.herokuapp.com/",
-      "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/chatting-app' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://kima111-react-socket-chat-app.herokuapp.com/' target='_blank'>Heroku</a>"
-    },
-    {
-      "src": "/images/MEANR.PNG",
-      "title": "MEANR",
-      "description": "A full stack app to help developers build fully stacked applications quickly.",
-      "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
-      "projectURL": "https://meanr.herokuapp.com/",
-      "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/MEANR' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://meanr.herokuapp.com/' target='_blank'>Heroku</a>"
-    }
-    
-
-  ]
+  {
+    "src": "/images/MEANR.PNG",
+    "title": "MEANR",
+    "description": "A full stack app to help developers build fully stacked applications quickly.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://meanr.herokuapp.com/",
+    "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/MEANR' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://meanr.herokuapp.com/' target='_blank'>Heroku</a>"
+  },
+  {
+    "src": "/images/eQuipt.PNG",
+    "title": "eQuipt",
+    "description": "A great way for LARPs (Live Action Role Players) to keep stock of their inventory and even give some to other players. A project which uses the full MERN stack (Mongo, Express, React, Node).",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://larp-equipt.herokuapp.com",
+    "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/Munchinator6354/eQuipt' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://larp-equipt.herokuapp.com' target='_blank'>Heroku</a>"
+  },
+  {
+    "src": "/images/Whats_Cooking_App.PNG",
+    "title": "What's Cooking App",
+    "description": "A recipe app that allows you to group, edit, and save to a deck app. Demonstrating a group project collaboration within Github.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "http://www.jessicasills.com/Project-1/",
+    "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='http://www.jessicasills.com/Project-1/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/jsills3110/Project-1' target='_blank'>Github</a>"
+  },
+  {
+    "src": "/images/Prodigies.PNG",
+    "title": "Prodigies",
+    "description": "A spot where you can find kid friendly games and ratings. Another group project combining Express, Node.js, Handlebars, and Javascript within a group project.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://young-cliffs-20678.herokuapp.com/",
+    "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/Munchinator6354/prodigies' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://young-cliffs-20678.herokuapp.com/' target='_blank'>Heroku</a>"
+  },
+  {
+    "src": "/images/WordGuessingGamePic.PNG",
+    "title": "Word Guessing Game",
+    "description": "See if you can guess the words. App demonstrating the use of pure javascript.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://kima111.github.io/Word-Guess-Game/",
+    "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/Word-Guess-Game/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/Word-Guess-Game' target='_blank'>Github</a>"
+  },
   
+  {
+    "src": "/images/Trivia_Game.PNG",
+    "title": "Trivia Game",
+    "description": "Take a quiz and see how much of a minimalist you are. Demonstrating the use of momentum and jquery.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://kima111.github.io/TriviaGame/",
+    "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/TriviaGame/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/TriviaGame/' target='_blank'>Github</a>"
+  },
+  {
+    "src": "/images/Giftastic_Generator.PNG",
+    "title": "Gif Generator",
+    "description": "An app that pulls in gifs, what ever that gif may be. Showing the usage of an API call and rendering using jquery and javascript.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://kima111.github.io/gifTastic/",
+    "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/gifTastic//' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/gifTastic/' target='_blank'>Github</a>"
+  },
+  {
+    "src": "/images/Chat.PNG",
+    "title": "Chatting App",
+    "description": "An excersize creating a Chat App. An app which demonstrates the usage of Socket.io, Node, and React.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://kima111-react-socket-chat-app.herokuapp.com/",
+    "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/chatting-app' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://kima111-react-socket-chat-app.herokuapp.com/' target='_blank'>Heroku</a>"
+  },
+  {
+    "src": "/images/Liri.PNG",
+    "title": "Liri Bot",
+    "description": "A bot that will console out different information that is tied to APIs. Connected using API calls within the Node.js server.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://github.com/kima111/liri-node-app",
+    "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/liri-node-app' target='_blank'>Github</a>"
+  },
+  {
+    "src": "/images/bamazon.PNG",
+    "title": "Bamazon App",
+    "description": "This is a Command Line Interface app which will work a lot like a purchasing terminal deomonstrating the use of node.js which is connected to MySQL database",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://github.com/kima111/bamazon",
+    "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/bamazon' target='_blank'>Github</a>"
+  },
+  {
+    "src": "/images/Friend_Finder.PNG",
+    "title": "Friend Finder",
+    "description": "Looking for friends. Look no further. Here is app that will take in a survey. Demonstrating MySQL and javascript.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://dry-reaches-71306.herokuapp.com/",
+    "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/FriendFinder' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://dry-reaches-71306.herokuapp.com/' target='_blank'>Heroku</a>"
+  },
+  {
+    "src": "/images/Burgers_App.PNG",
+    "title": "Burgers",
+    "description": "Here is a menu style app that will help you track your burgers! Showing usage of Express, Node.js, and javascript working together.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://afternoon-sierra-83583.herokuapp.com/",
+    "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/burger' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://afternoon-sierra-83583.herokuapp.com/' target='_blank'>Heroku</a>"
+  },
+  {
+    "src": "/images/CNN_Scraper.PNG",
+    "title": "News Scraper",
+    "description": "Scrape news articles then add notes to them. Project which uses Node.js, Handlebars, Mongo, and Javascript.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://pacific-citadel-06140.herokuapp.com/",
+    "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/NewsNotes' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://pacific-citadel-06140.herokuapp.com/' target='_blank'>Heroku</a>"
+  },
+  {
+    "src": "/images/Clicky_Game.PNG",
+    "title": "Clicky Game",
+    "description": "A game to test your memory. A project which uses React.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://kima111.github.io/clickygame/",
+    "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/clickygame/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/clickygame' target='_blank'>Github</a>"
+  },  
+  {
+    "src": "/images/RPS_Multiplayer_Game.PNG",
+    "title": "Rock Paper Scissors Multiplayer Game",
+    "description": "Challenge a friend to Rock Paper Scissors online. An app connected to Firebase online.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://kima111.github.io/RPS-Multiplayer/",
+    "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/RPS-Multiplayer/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/RPS-Multiplayer/' target='_blank'>Github</a>"
+  },
+  {
+    "src": "/images/StreetFighterRPG_Game.PNG",
+    "title": "RPG Game",
+    "description": "See if you can outlast your opponent who ever that may be. Usage of jquery.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://kima111.github.io/unit-4-game/",
+    "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='https://kima111.github.io/unit-4-game/' target='_blank'>Link</a></br><i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/unit-4-game/' target='_blank'>Github</a>"
+  }
+]

@@ -8,6 +8,14 @@
     "githuborheroku": "<i class='fab fa-github'></i>&nbsp;&nbsp;<a href='https://github.com/kima111/MEANR' target='_blank'>Github</a><br /><img style = 'height:16px;' src='../images/herokuLogo.svg'/>&nbsp;&nbsp;<a href='https://meanr.herokuapp.com/' target='_blank'>Heroku</a>"
   },
   {
+    "src": "/images/Paju.PNG",
+    "title": "Paju",
+    "description": "This is a full stack website that uses database triggers to enable real time UI changes. In addition, it uses Cron jobs to help with chronological features.",
+    "format": "col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4",
+    "projectURL": "https://www.paju.com",
+    "githuborheroku": "<i class='fas fa-link'></i>&nbsp;&nbsp;<a href='http://www.pajurestaurant.com' target='_blank'>Link</a>"
+  },
+  {
     "src": "/images/eQuipt.PNG",
     "title": "eQuipt",
     "description": "A great way for LARPs (Live Action Role Players) to keep stock of their inventory and even give some to other players. A project which uses the full MERN stack (Mongo, Express, React, Node).",
